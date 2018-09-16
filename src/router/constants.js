@@ -1,0 +1,5 @@
+export const LOGIN_ROUTE = '/'
+export const ADMIN = '/admin'
+export const DASHBOARD_ROUTE = '/dashboard'
+export const APP_ROUTE_NAME = 'Home'
+export const USER_ADMIN = 'admin'
